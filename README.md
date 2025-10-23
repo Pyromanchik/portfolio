@@ -15,4 +15,4 @@ _romanap2902@gmail.com_
 
 [Moй GitHub](https://github.com/Pyromanchik)
 
-  ![my photo](130556_big.jpg)
+  [my photo](130556_big.jpg)
