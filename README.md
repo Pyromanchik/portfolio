@@ -44,12 +44,6 @@
 
 ---
 
-## 🎓 Курсы
-
-- [Практический курс Модульбанк](public/prakticheskiy-kurs-modulbank.pdf)
-
----
-
 ## 📬 Связь
 - [Telegram](https://t.me/piroman29) ✉️
 - Email: romanap2902@gmail.com ✉️
